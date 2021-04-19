@@ -1,3 +1,5 @@
+<img src="https://github.com/xNoJustice/react-quiz-app/blob/8e5b6086fb7e57f2b7a579fcdc4980097687db7e/quiz.gif" alt="" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
